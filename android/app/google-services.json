@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "152011691397",
+    "project_id": "lab4-bookstore",
+    "storage_bucket": "lab4-bookstore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152011691397:android:06a37fb6115fb25e0020ec",
+        "android_client_info": {
+          "package_name": "com.lab4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLFjkxATsI_--rY8ARson0xMqto3tuOfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
